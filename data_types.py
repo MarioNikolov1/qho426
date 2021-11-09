@@ -1,0 +1,13 @@
+print("What is your name human?")
+name = input()
+print("It is nice to meet you", name)
+print("How old are you?")
+age = int(input())
+print("You are, " + str(age) + " years old!")
+print("How tall are you?")
+height = float(input())
+print("You are, " + str(height) + " meters tall!")
+print("How much do you weigh?")
+weight = int(input())
+print("You are " + str(weight) + " kilograms!")
+
